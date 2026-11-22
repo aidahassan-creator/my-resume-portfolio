@@ -1,7 +1,7 @@
 ## Your Info:
 
-Matric Number:  298944
-Name: NOR AIDA MAISARAH BINTI HASSAN
+- **Matric Number:** 298944
+- **Name:** NOR AIDA MAISARAH BINTI HASSAN
 
 ## Objective
 
