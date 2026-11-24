@@ -11,4 +11,4 @@ A personal resume website developed using HTML and CSS.
 
 ## Live Website
 
-[View My Personal Portfolio](https://aidahassan-creator.github.io/my-resume-portfolio/)
+[View My Personal Portfolio](https://aidahassan-creator.github.io/-resume-portfolio/)
